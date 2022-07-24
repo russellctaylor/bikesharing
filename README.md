@@ -7,14 +7,19 @@ The purpose of this analysis is to help convince investors that a bike-sharing p
 Results:
 Checkout Times for Users | Tableau Public
 https://public.tableau.com/app/profile/russell.taylor5033/viz/CheckoutTimesforUsers_16586789684960/CheckoutTimesforUsers?publish=yes
+
 Checkout Times by Gender | Tableau Public
 https://public.tableau.com/app/profile/russell.taylor5033/viz/CheckoutTimesbyGender_16586791791730/CheckoutTimesbyGender?publish=yes
+
 Trips by Weekday per Hour | Tableau Public
 https://public.tableau.com/app/profile/russell.taylor5033/viz/TripsbyWeekdayperHour_16586794064770/TripsbyWeekdayperHour?publish=yes
+
 Trips by Gender | Tableau Public
 https://public.tableau.com/app/profile/russell.taylor5033/viz/TripsbyGender_16586795199290/TripsbyGender?publish=yes
+
 Trips by Gender by Weekday | Tableau Public
 https://public.tableau.com/app/profile/russell.taylor5033/viz/TripsbyGenderbyWeekday_16586796163840/TripsbyGenderbyWeekday?publish=yes
+
 NYC Citibike Analysis | Tableau Public
 https://public.tableau.com/app/profile/russell.taylor5033/viz/NYCCitibikeAnalysis_16586797526930/NYCCitibikeAnalysis?publish=yes
 
